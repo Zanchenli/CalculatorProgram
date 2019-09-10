@@ -27,6 +27,5 @@ def interface():
         elif choice == '1':
             cholestoral_interface()
 
-
 if __name__=="__main__":
 	interface()
