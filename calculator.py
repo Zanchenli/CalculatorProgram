@@ -29,7 +29,7 @@ def interface():
 
 if __name__=="__main__":
 	interface()
-x1def interface():
+def interface():
 	print("My calculator program")
 	keep_running=True
 	while keep_running:
